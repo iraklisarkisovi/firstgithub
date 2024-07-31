@@ -1,0 +1,39 @@
+.question{
+    font-family: "Zain", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.answear{
+    font-family: "Zain", sans-serifc;
+    border: 10px solid #000000;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.answear a{
+    text-decoration: none;
+    color: #000000; 
+}
+
+.container{
+    display: inline-block;
+}
+
+.coins{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.coins1{
+    display: none;
+    align-items: right;
+    justify-content: right;
+}
+
+.refresh a{
+    text-decoration: none;
+    color: #000000;
+}
